@@ -1,0 +1,29 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 60px;
+    color: white;
+}
+
+p {
+    font-size: 20px;
+    color: wheat;
+}
+
+.first-step {
+    background-image: url(images/donation1.jpg);
+    background-repeat: no-repeat;
+}
+
+.first-area {
+    text-align: center;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: palevioletred;
+    padding: 10px 40px;
+    border-radius: 5px;
+}

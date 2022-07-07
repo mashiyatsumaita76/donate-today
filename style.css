@@ -2,14 +2,43 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
-h1 {
+#color {
     font-size: 60px;
     color: white;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.donate-area {
+    display: flex;
+    margin: 10px 40px;
+}
+
+#border {
+    margin: 4px;
+    border: 2px solid black;
+}
+
+.half-width {
+    width: 25%;
+    padding: 25px;
+    border: 5px solid white;
+    margin: 20px;
 }
 
 p {
     font-size: 20px;
     color: wheat;
+}
+
+.font-color {
+    color: gray;
 }
 
 .first-step {
@@ -21,9 +50,26 @@ p {
     text-align: center;
 }
 
+.third-area {
+    text-align: center;
+}
+
 .link-button {
     text-decoration: none;
     background-color: palevioletred;
     padding: 10px 40px;
     border-radius: 5px;
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+}
+
+#footer-color {
+    color: brown;
+}
+
+#footer-font {
+    color: aliceblue;
 }
